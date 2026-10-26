@@ -1,6 +1,7 @@
-
-
-# 本地草稿与素材，不进仓库
 chatDraft.md
 模板/
 *.zip
+.obsidian/
+图库/
+Excalidraw/
+实验报告/
